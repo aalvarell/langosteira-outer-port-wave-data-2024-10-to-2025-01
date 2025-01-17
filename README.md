@@ -41,7 +41,12 @@ The same dataset is provided in two formats for flexibility and ease of use:
 
 This equipment is part of the R&D&i project PID2023-149956OB-I00, funded by MICIU/AEI/10.13039/501100011033.
 
-![Funding Agency Logo](img/MICIU%2BAEI.jpg)
+<div align="center">
+    <img src="img/MICIU_AEI.jpg" alt="Funding Agency Logo" width="350"  />
+</div>
+
+
+
 
 ## Contact
 
