@@ -17,7 +17,7 @@ This location plays a critical role in maritime operations, making wave agitatio
 
 ## Data Overview
 
-The dataset contains information recorded from October 2024 to January 2025. The variables included are essential for understanding wave characteristics and are defined as follows:
+The dataset contains information recorded from October 2024 to January 2025. Each data point is separated by a 30-minute interval. The variables included are essential for understanding wave characteristics and are defined as follows:
 
 ### Variables:
 
