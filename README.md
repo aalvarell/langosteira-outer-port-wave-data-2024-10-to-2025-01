@@ -21,23 +21,15 @@ The dataset contains information recorded from October 2024 to January 2025. The
 
 ### Variables:
 
-1. **Time (UTC):**
+1. **Time (UTC):** the timestamp of the recorded data in Coordinated Universal Time (UTC).
 
-   - The timestamp of the recorded data in Coordinated Universal Time (UTC).
+2. **Significant Wave Height (h_s) [m]:** represents the average height of the highest one-third of waves observed during the sampling period, measured in meters.
 
-2. **Significant Wave Height (h_s) [m]:**
+3. **Maximum Wave Height (h_max) [m]:** the maximum height of a single wave recorded during the sampling period, measured in meters.
 
-   - Represents the average height of the highest one-third of waves observed during the sampling period, measured in meters.
+4. **Peak Wave Period (t_p) [s]:** the period (in seconds) corresponding to the peak energy of the wave spectrum, indicating the dominant wave period.
 
-3. **Maximum Wave Height (h_max) [m]:**
-
-   - The maximum height of a single wave recorded during the sampling period, measured in meters.
-
-4. **Peak Wave Period (t_p) [s]:**
-
-   - The period (in seconds) corresponding to the peak energy of the wave spectrum, indicating the dominant wave period.
-
-### File Details
+### File details
 
 The same dataset is provided in two formats for flexibility and ease of use:
 
@@ -50,7 +42,8 @@ The same dataset is provided in two formats for flexibility and ease of use:
 This equipment is part of the R&D&i project PID2023-149956OB-I00, funded by MICIU/AEI/10.13039/501100011033.
 
 ![Funding Agency Logo](img/MICIU%2BAEI.jpg)
----
+
+## Contact
 
 For further questions or collaborations, please contact [Alberto Alvarellos](mailto:alberto.alvarellos@udc.es) or [Andrés Figuero](mailto:andres.figuero@udc.es).
 
