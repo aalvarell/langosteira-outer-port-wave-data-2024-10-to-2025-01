@@ -13,7 +13,7 @@ The buoy is positioned at the [Outer Port of Punta Langosteira](https://www.goog
 - **Latitude:** 43.341927
 - **Longitude:** -8.507792
 
-This location plays a critical role in maritime operations, making wave agitation monitoring essential for ensuring safety and efficiency.
+This location provides additional wave agitation data to the already existing wave radars.
 
 ## Data Overview
 
@@ -44,8 +44,6 @@ This equipment is part of the R&D&i project PID2023-149956OB-I00, funded by MICI
 <div align="center">
     <img src="img/MICIU_AEI.jpg" alt="Funding Agency Logo" width="350"  />
 </div>
-
-
 
 
 ## Contact
