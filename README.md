@@ -38,9 +38,9 @@ The same dataset is provided in two formats for flexibility and ease of use:
 
 ## Funding
 
-This equipment is also part of the R&D&i project PID2020-112794RB-I00, funded by MICIU/AEI/10.13039/501100011033.
-
-This equipment is part of the R&D&i project PID2023-149956OB-I00, funded by MICIU/AEI/10.13039/501100011033.
+- This equipment is part of the R&D&i project PID2020-112794RB-I00, funded by MICIU/AEI/10.13039/501100011033.
+- FPI predoctoral grant from the Spanish Ministry of Science and Innovation [grant number PRE2021- 100141, funded by MCIN/AEI/ 10.13039/501100011033 and FSE+“Fondo Social Europeo Plus”].
+- This equipment is also part of the R&D&i project PID2023-149956OB-I00, funded by MICIU/AEI/10.13039/501100011033.
 
 <div align="center">
     <img src="img/MICIU_AEI.jpg" alt="Funding Agency Logo" width="350"  />
