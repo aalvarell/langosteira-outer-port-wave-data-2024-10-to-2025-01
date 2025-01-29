@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/917681344.svg)](https://doi.org/10.5281/zenodo.14760441)
+
 # Langosteira Outer Port Wave Agitation Data Repository
 
 This repository contains wave agitation data recorded at the [Outer Port of Punta Langosteira](https://www.google.com/maps/place/43.341927,-8.507792 "Outer Port of Punta Langosteira, Spain") (A Coruña, Spain), from Oct 2024 to Jan 2025. 
